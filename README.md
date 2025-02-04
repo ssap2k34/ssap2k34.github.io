@@ -1,2 +1,2 @@
-https://html.design/demo/lineer/service.html?#
-https://github.com/surojl1/surojl1.github.io
+https://html.hauguzidesign/demo/lineer/service.html?#
+https://hauguzigithub.com/surojl1/surojl1.github.io
